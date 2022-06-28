@@ -1,1 +1,1 @@
-This git is mostly a test to understand how this stuff works. The file inside is actually a "real" project
+Alright so if I change the content in a file, will that be changed or updated?
