@@ -1,1 +1,0 @@
-This git is mostly a test to understand how this stuff works. The file inside is actually a "real" project
