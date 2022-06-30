@@ -21,3 +21,5 @@ for x in array_1:
 number_of_elements = len(array_1)
 
 print("Number of elements in the list: ", number_of_elements)
+
+# test if the push request works
